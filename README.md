@@ -24,6 +24,12 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
+### [Power BI Dataquest Course Improvement Analysis](https://github.com/jastro-dev/power-bi-dataquest-course-improvement-analysis)
+**Description:** A Power BI project focused on identifying underperforming courses at Dataquest using lesson completion rates and Net Promoter Scores (NPS).  
+**Key Features:** Comprehensive dashboards for lesson completion and NPS trends, actionable insights, and recommendations for course improvements.
+
+---
+
 ### [Northwind Traders SQL Window Functions Practice](https://github.com/jastro-dev/dq-09-sql-window-functions-northwind-traders)
 **Description:** A hands-on practice project using PostgreSQL window functions with the Northwind Traders dataset. Focuses on advanced SQL analytics and reporting.  
 **Key Features:** Advanced window functions, CTEs, sales analysis, and customer segmentation.
