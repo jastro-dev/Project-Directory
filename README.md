@@ -19,9 +19,9 @@ Welcome to my project showcase! This repository serves as a centralized director
 ### [Twitter Sentiment Analysis Project](https://github.com/jastro-dev/twitter-sentiment-analysis)
 **Description:** Sentiment analysis of tweets using natural language processing (NLP) techniques and machine learning models.
 
-**Tools Used:** Python
-
 **Key Features:** Text preprocessing, multiple model implementations (Logistic Regression, Random Forest, BERT), and GPU-accelerated training.
+
+**Tools Used:** Python
 
 ---
 
