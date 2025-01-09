@@ -57,7 +57,7 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 **Key Features:** Product restocking recommendations, VIP customer segmentation, and revenue analysis.
 
-**Tools Used:** MySQL
+**Tools Used:** SQLite
 
 ---
 
