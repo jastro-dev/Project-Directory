@@ -34,6 +34,15 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
+### [Tableau Dashboard Replication: Real GDP Growth Visualization](https://github.com/jastro-dev/tableau-imf-data-dashboard)
+**Description:** A Tableau project replicating the IMF's GDP Growth dashboard, showcasing data visualization skills and advanced Tableau dashboard design.
+
+**Key Features:** Interactive choropleth map for country-wise GDP growth, trend line charts for historical and forecasted GDP trends, sortable country/region lists, and dynamic filters for year and category selection.
+
+**Tools Used:** Tableau Desktop, Python (for data processing), Excel
+
+---
+
 ### [Power BI Dataquest Course Improvement Analysis](https://github.com/jastro-dev/power-bi-dataquest-course-improvement-analysis)
 **Description:** A Power BI project focused on identifying underperforming courses at Dataquest using lesson completion rates and Net Promoter Scores (NPS).
 
