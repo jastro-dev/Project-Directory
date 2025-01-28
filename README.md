@@ -16,6 +16,15 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
+### [Tableau Dashboard Replication: Real GDP Growth Visualization](https://github.com/jastro-dev/tableau-imf-data-dashboard)
+**Description:** A Tableau project replicating the IMF's GDP Growth dashboard, showcasing data visualization skills and advanced Tableau dashboard design.
+
+**Key Features:** Interactive choropleth map for country-wise GDP growth, trend line charts for historical and forecasted GDP trends, sortable country/region lists, and dynamic filters for year and category selection.
+
+**Tools Used:** Tableau Desktop, Python (for data processing), Excel
+
+---
+
 ### [Twitter Sentiment Analysis Project](https://github.com/jastro-dev/twitter-sentiment-analysis)
 **Description:** Sentiment analysis of tweets using natural language processing (NLP) techniques and machine learning models.
 
@@ -31,15 +40,6 @@ Welcome to my project showcase! This repository serves as a centralized director
 **Key Features:** SQL data extraction, tag analysis, time series analysis, and co-occurrence mapping.
 
 **Tools Used:** T-SQL, Python
-
----
-
-### [Tableau Dashboard Replication: Real GDP Growth Visualization](https://github.com/jastro-dev/tableau-imf-data-dashboard)
-**Description:** A Tableau project replicating the IMF's GDP Growth dashboard, showcasing data visualization skills and advanced Tableau dashboard design.
-
-**Key Features:** Interactive choropleth map for country-wise GDP growth, trend line charts for historical and forecasted GDP trends, sortable country/region lists, and dynamic filters for year and category selection.
-
-**Tools Used:** Tableau Desktop, Python (for data processing), Excel
 
 ---
 
@@ -70,15 +70,6 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
-### [Star Wars Survey Analysis](https://github.com/jastro-dev/dq-07-star-wars-survey)
-**Description:** A data analysis project exploring Star Wars movie preferences based on survey responses. Examines rankings, viewing patterns, and fan vs. non-fan preferences.
-
-**Key Features:** Survey data cleaning, ranking analysis, and comparative visualizations.
-
-**Tools Used:** Python
-
----
-
 ### [New York City Schools Data Analysis](https://github.com/jastro-dev/dq-06-nyc-high-school-analysis)
 **Description:** Analysis of NYC school performance, demographics, and safety scores to uncover meaningful correlations.
 
@@ -92,28 +83,6 @@ Welcome to my project showcase! This repository serves as a centralized director
 **Description:** Analysis of exit surveys from two educational institutions, focusing on dissatisfaction trends by service length and age.
 
 **Key Features:** Service length analysis, age group dissatisfaction patterns, and targeted retention recommendations.
-
-**Tools Used:** Python
-
----
-
-## Foundational Work (Early Projects)
-
-This section highlights earlier projects that served as stepping stones in building my foundational data analytics skills.
-
-### [Euro to Dollar Exchange Rate Analysis During COVID-19](https://github.com/jastro-dev/dq-04-storytelling-data-visualization-exchange-rates)
-**Description:** Analysis of Euro to Dollar exchange rate trends before and during the COVID-19 pandemic. Focuses on basic time series analysis and storytelling through data.
-
-**Highlights:** Experimented with advanced plotting customizations to create clear visual narratives about exchange rate trends.
-
-**Tools Used:** Python
-
----
-
-### [eBay Car Sales Data Analysis](https://github.com/jastro-dev/dq-02-ebay-car-sales-analysis)
-**Description:** Analysis of used car listings from eBay Kleinanzeigen. Covers basic data cleaning and market trend analysis.
-
-**Highlights:** Identified pricing patterns and vehicle trends that helped uncover insights about the German used car market.
 
 **Tools Used:** Python
 
