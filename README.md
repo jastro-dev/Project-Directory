@@ -6,9 +6,9 @@ Welcome to my project showcase! This repository serves as a centralized director
 ## Projects
 
 ### [Brazil Flight Trends Analysis for Holiday Season 2024 (CPP Bronco Datathon 2024)](https://github.com/jastro-dev/cpp-bronco-datathon-fall-2024)
-**Description:** Analysis of Brazil flight data to identify the best cities to visit during the 2024 holiday season.
+**Description:** Analysis of Brazil flight data to identify the best cities to visit during the 2024 holiday season. Secured 3rd place.
 
-**Key Features:** Seasonal pattern analysis, pricing trends, and actionable insights for travelers.
+**Key Features:** Seasonal pattern analysis, pricing trends, and compelling visualizations aligned with stakeholder priorities for strategic decision-making.
 
 **Tools Used:** Python
 
@@ -16,12 +16,12 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
-### [Tableau Dashboard Replication: Real GDP Growth Visualization](https://github.com/jastro-dev/tableau-imf-data-dashboard)
-**Description:** A Tableau project replicating the IMF's GDP Growth dashboard, showcasing data visualization skills and advanced Tableau dashboard design.
+### [Tableau Dashboard Replication: Real GDP Growth Visualization](https://github.com/jastro-dev/tableau-imf-data-dashboard)  
+**Description:** Replicated the IMF's GDP Growth dashboard in Tableau, automating Python pipelines and enhancing dataset completeness through additional data integration.
 
-**Key Features:** Interactive choropleth map for country-wise GDP growth, trend line charts for historical and forecasted GDP trends, sortable country/region lists, and dynamic filters for year and category selection.
+**Key Features:** Interactive choropleth map for country-wise GDP growth, trend line charts for historical and forecasted GDP trends, sortable country/region lists, and dynamic filters for year and category selection, incorporating calculated fields for GDP categorization and parameters for dynamic year selection (1990–2023).  
 
-**Tools Used:** Tableau Desktop, Python (for data processing), Excel
+**Tools Used:** Tableau Desktop, Python (for data processing), Excel  
 
 ---
 
