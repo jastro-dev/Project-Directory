@@ -34,6 +34,15 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
+### [Heart Disease Classification using Logistic Regression](https://github.com/jastro-dev/dq-ds-05-heart-disease-classification)  
+**Description:** Built a logistic regression model to predict the presence of heart disease using patient health indicators from the **UCI Heart Disease dataset**. Followed a structured **machine learning pipeline**, including data preprocessing, feature selection, model training, and evaluation.  
+
+**Key Features:** Data cleaning and imputation, correlation analysis for feature selection, logistic regression modeling, and performance evaluation using accuracy, sensitivity, and specificity.  
+
+**Tools Used:** Python (pandas, scikit-learn, matplotlib, seaborn)  
+
+---
+
 ### [Stack Exchange Popular Data Science Questions Analysis](https://github.com/jastro-dev/dq-11-stackexchange-popular-questions)
 **Description:** A data analysis project exploring popular data science questions from Stack Exchange. Focuses on identifying trending topics and optimal categories for new questions.
 
