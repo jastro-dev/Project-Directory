@@ -25,21 +25,21 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
-### [Stack Exchange Popular Data Science Questions Analysis](https://github.com/jastro-dev/dq-11-stackexchange-popular-questions)
-**Description:** A data analysis project exploring popular data science questions from Stack Exchange. Focuses on identifying trending topics and optimal categories for new questions.
-
-**Key Features:** SQL data extraction, tag analysis, time series analysis, and co-occurrence mapping.
-
-**Tools Used:** T-SQL, Python
-
----
-
 ### [Power BI Dataquest Course Improvement Analysis](https://github.com/jastro-dev/power-bi-dataquest-course-improvement-analysis)
 **Description:** A Power BI project focused on identifying underperforming courses at Dataquest using lesson completion rates and Net Promoter Scores (NPS).
 
 **Key Features:** Comprehensive dashboards for lesson completion and NPS trends, actionable insights, and recommendations for course improvements.
 
 **Tools Used:** Power BI
+
+---
+
+### [Stack Exchange Popular Data Science Questions Analysis](https://github.com/jastro-dev/dq-11-stackexchange-popular-questions)
+**Description:** A data analysis project exploring popular data science questions from Stack Exchange. Focuses on identifying trending topics and optimal categories for new questions.
+
+**Key Features:** SQL data extraction, tag analysis, time series analysis, and co-occurrence mapping.
+
+**Tools Used:** T-SQL, Python
 
 ---
 
