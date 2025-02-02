@@ -79,7 +79,7 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
-### [Employee Productivity Prediction using Tree-based Models](https://github.com/jastro-dev/dq-ds-06-employee-productivity-prediction-tree-models)
+### [Employee Productivity Prediction using Tree-based Algorithms](https://github.com/jastro-dev/dq-ds-06-employee-productivity-prediction-tree-models)
 **Description:** Machine learning project analyzing garment worker productivity to predict employee performance based on key workplace factors.
 
 **Key Features:** Data cleaning, feature engineering, binary classification of productive vs. unproductive employees, model comparison (Decision Trees, Random Forest, XGBoost), class balancing, and model evaluation using accuracy scores, confusion matrices, and feature importance analysis.
