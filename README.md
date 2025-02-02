@@ -25,24 +25,6 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ---
 
-### [Twitter Sentiment Analysis Project](https://github.com/jastro-dev/twitter-sentiment-analysis)
-**Description:** Sentiment analysis of tweets using natural language processing (NLP) techniques and machine learning models.
-
-**Key Features:** Text preprocessing, multiple model implementations (Logistic Regression, Random Forest, BERT), and GPU-accelerated training.
-
-**Tools Used:** Python
-
----
-
-### [Heart Disease Classification using Logistic Regression](https://github.com/jastro-dev/dq-ds-05-heart-disease-classification)  
-**Description:** Built a logistic regression model to predict the presence of heart disease using patient health indicators from the **UCI Heart Disease dataset**. Followed a structured **machine learning pipeline**, including data preprocessing, feature selection, model training, and evaluation.  
-
-**Key Features:** Data cleaning and imputation, correlation analysis for feature selection, logistic regression modeling, and performance evaluation using accuracy, sensitivity, and specificity.  
-
-**Tools Used:** Python (pandas, scikit-learn, matplotlib, seaborn)  
-
----
-
 ### [Stack Exchange Popular Data Science Questions Analysis](https://github.com/jastro-dev/dq-11-stackexchange-popular-questions)
 **Description:** A data analysis project exploring popular data science questions from Stack Exchange. Focuses on identifying trending topics and optimal categories for new questions.
 
@@ -76,6 +58,35 @@ Welcome to my project showcase! This repository serves as a centralized director
 **Key Features:** Product restocking recommendations, VIP customer segmentation, and revenue analysis.
 
 **Tools Used:** SQLite
+
+---
+
+### [Twitter Sentiment Analysis Project](https://github.com/jastro-dev/twitter-sentiment-analysis)
+**Description:** Sentiment analysis of tweets using natural language processing (NLP) techniques and machine learning models.
+
+**Key Features:** Text preprocessing, multiple model implementations (Logistic Regression, Random Forest, BERT), and GPU-accelerated training.
+
+**Tools Used:** Python
+
+---
+
+### [Heart Disease Classification using Logistic Regression](https://github.com/jastro-dev/dq-ds-05-heart-disease-classification)  
+**Description:** Built a logistic regression model to predict the presence of heart disease using patient health indicators from the **UCI Heart Disease dataset**. Followed a structured **machine learning pipeline**, including data preprocessing, feature selection, model training, and evaluation.  
+
+**Key Features:** Data cleaning and imputation, correlation analysis for feature selection, logistic regression modeling, and performance evaluation using accuracy, sensitivity, and specificity.  
+
+**Tools Used:** Python (pandas, scikit-learn, matplotlib, seaborn)  
+
+---
+
+### [Employee Productivity Prediction](https://github.com/jastro-dev/dq-ds-06-employee-productivity-prediction-tree-models)
+**Description:** Machine learning project analyzing garment worker productivity to predict employee performance based on key workplace factors.
+
+**Key Features:** Data cleaning, feature engineering, binary classification of productive vs. unproductive employees, model comparison (Decision Trees, Random Forest, XGBoost), class balancing, and model evaluation using accuracy scores, confusion matrices, and feature importance analysis.
+
+**Tools Used:** Python (pandas, scikit-learn, XGBoost, matplotlib, seaborn)
+
+**Note:** This project focuses on the importance of exploratory data analysis, data preprocessing, and model evaluation in predictive analytics.
 
 ---
 
