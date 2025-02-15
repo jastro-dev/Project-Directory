@@ -5,6 +5,22 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ## Projects
 
+### [Operational Efficiency Benchmarking for Candy Distribution (Work in Progress)](https://github.com/jastro-dev/operational-efficiency-benchmarking-candy-distributor)
+**Description:** A portfolio project integrating multiple data sources to benchmark and optimize the operational efficiency of a candy manufacturing and distribution business. It features a robust data pipeline, exploratory analysis, predictive modeling, and planned interactive dashboards.
+
+**Key Features:** 
+- **Data Pipeline:** Cleans, transforms, and integrates sales, production, and geographic data, storing results in SQLite/MySQL.
+- **Exploratory Data Analysis:** Identifies sales trends, production efficiency, and shipping performance.
+- **Predictive Modeling:** Implements classification models (Logistic Regression, Decision Trees, Random Forest, XGBoost) to predict late shipments.
+- **Feature Engineering:** Includes distance calculations, lead time estimation, and geographic mapping using `pgeocode` and the Haversine formula.
+- **Planned Dashboards:** Interactive visualizations for continuous monitoring and strategic decision-making.
+
+**Tools Used:**  
+- **Python:** pandas, scikit-learn, XGBoost, matplotlib, seaborn, pgeocode  
+- **Databases:** MySQL, SQLite  
+
+**Note:** This is an ongoing project, continuously updated with new insights and improvements.
+
 ### [Brazil Flight Trends Analysis for Holiday Season 2024 (CPP Bronco Datathon 2024)](https://github.com/jastro-dev/cpp-bronco-datathon-fall-2024)
 **Description:** Analysis of Brazil flight data to identify the best cities to visit during the 2024 holiday season. Secured 3rd place.
 
