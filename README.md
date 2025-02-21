@@ -25,6 +25,8 @@ Welcome to my project showcase! This repository serves as a centralized director
 - **Databases:** MySQL, SQLite  
 - **Visualization:** Power BI  
 
+---
+
 ### [Brazil Flight Trends Analysis for Holiday Season 2024 (CPP Bronco Datathon 2024)](https://github.com/jastro-dev/cpp-bronco-datathon-fall-2024)
 **Description:** Analysis of Brazil flight data to identify the best cities to visit during the 2024 holiday season. Secured 3rd place.
 
