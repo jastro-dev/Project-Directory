@@ -5,7 +5,7 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ## Projects
 
-### [Operational Efficiency Benchmarking for Candy Distribution](https://github.com/jastro-dev/operational-efficiency-benchmarking-candy-distributor)  
+### [Operational Efficiency & Predictive Analytics: Candy Distribution](https://github.com/jastro-dev/operational-efficiency-benchmarking-candy-distributor)  
 **Description:** A portfolio project that benchmarks and optimizes the operational efficiency of a candy manufacturing and distribution business. It integrates multiple data sources, implements a full data pipeline, performs exploratory analysis, builds predictive models, and features an interactive Power BI dashboard for continuous monitoring and strategic decision-making.
 
 **Key Features:**  
