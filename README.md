@@ -5,7 +5,7 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ## Projects
 
-### [Sales Pipeline ETL & Tableau/Power BI Dashboard: GearQuest Analysis](https://github.com/jastro-dev/gearquest-sales-pipeline-etl-dashboard)
+### [Sales Pipeline ETL & Tableau/Power BI Dashboard: GearQuest Analysis](https://github.com/jastro-dev/gearquest-sales-pipeline-etl-tableau-power-bi-dashboard)
 **Description:** A portfolio project that implements a full ETL pipeline to extract, transform, and load Excel data into a `.hyper` Tableau extract file and a PostgreSQL database. This enables seamless integration with both Tableau and Power BI, facilitating interactive business intelligence dashboards for sales pipeline insights.
 
 **Key Features:**
