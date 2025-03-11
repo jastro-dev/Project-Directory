@@ -5,25 +5,45 @@ Welcome to my project showcase! This repository serves as a centralized director
 
 ## Projects
 
-### [Operational Efficiency & Predictive Analytics: Candy Distribution](https://github.com/jastro-dev/operational-efficiency-benchmarking-candy-distributor)  
+### [Sales Pipeline ETL & Tableau/Power BI Dashboard: GearQuest Analysis](https://github.com/jastro-dev/gearquest-sales-pipeline-etl-dashboard)
+**Description:** A portfolio project that implements a full ETL pipeline to extract, transform, and load Excel data into a `.hyper` Tableau extract file and a PostgreSQL database. This enables seamless integration with both Tableau and Power BI, facilitating interactive business intelligence dashboards for sales pipeline insights.
+
+**Key Features:**
+- **End-to-End ETL Pipeline:** Extracts data from multiple Excel files, transforms it using PySpark, and loads it into Tableau Hyper and PostgreSQL.
+- **Dual Output for BI Tools:** Generates `.hyper` files for Tableau and structured tables in PostgreSQL for Power BI.
+- **Automated Data Transformation:** Cleans and integrates data, merging relevant tables and handling duplicates efficiently.
+- **Cloud-Ready Architecture:** Designed for deployment in AWS, GCP, or Azure environments.
+- **Reproducible Workflow:** Includes `requirements.txt` and `.env` file for automated setup.
+- **Interactive Dashboards:**
+  - **Tableau Dashboard:** Utilizes `.hyper` extracts for seamless visualization.
+  - **Power BI Dashboard:** Connects directly to PostgreSQL for real-time data updates.
+
+**Tools Used:**
+- **Python:** PySpark, tableauhyperapi, psycopg2, pandas (used in initial notebook for prototyping)
+- **Databases:** PostgreSQL
+- **Visualization:** Tableau, Power BI
+
+---
+
+### [Operational Efficiency & Predictive Analytics: Candy Distribution](https://github.com/jastro-dev/operational-efficiency-benchmarking-candy-distributor)
 **Description:** A portfolio project that benchmarks and optimizes the operational efficiency of a candy manufacturing and distribution business. It integrates multiple data sources, implements a full data pipeline, performs exploratory analysis, builds predictive models, and features an interactive Power BI dashboard for continuous monitoring and strategic decision-making.
 
-**Key Features:**  
-- **Data Pipeline:** Cleans, transforms, and integrates sales, production, and geographic data, storing results in SQLite/MySQL.  
-- **Exploratory Data Analysis:** Identifies sales trends, production efficiency, and shipping performance.  
-- **Predictive Modeling:** Implements classification models (Logistic Regression, Decision Trees, Random Forest, XGBoost) to predict late shipments, with feature selection for model optimization.  
-- **Feature Engineering:** Includes distance calculations, lead time estimation, and geographic mapping using `pgeocode` and the Haversine formula.  
-- **Interactive Power BI Dashboard:**  
-  - **Quarterly KPI Performance:** Tracks revenue against division-level targets.  
-  - **Lead Time vs. Late Probability Analysis:** Visualizes the relationship between lead time and late shipment probability, identifying high-risk products.  
-  - **Total and Monthly Revenue Trends:** Provides detailed breakdowns by division, factory, product, region, and shipping mode.  
-  - **Target Gap Analysis:** Highlights shortfalls in sales performance based on 2024 targets.  
-  - **Data-Driven Decision Support:** Enables continuous monitoring and strategic adjustments.  
+**Key Features:**
+- **Data Pipeline:** Cleans, transforms, and integrates sales, production, and geographic data, storing results in SQLite/MySQL.
+- **Exploratory Data Analysis:** Identifies sales trends, production efficiency, and shipping performance.
+- **Predictive Modeling:** Implements classification models (Logistic Regression, Decision Trees, Random Forest, XGBoost) to predict late shipments, with feature selection for model optimization.
+- **Feature Engineering:** Includes distance calculations, lead time estimation, and geographic mapping using `pgeocode` and the Haversine formula.
+- **Interactive Power BI Dashboard:**
+  - **Quarterly KPI Performance:** Tracks revenue against division-level targets.
+  - **Lead Time vs. Late Probability Analysis:** Visualizes the relationship between lead time and late shipment probability, identifying high-risk products.
+  - **Total and Monthly Revenue Trends:** Provides detailed breakdowns by division, factory, product, region, and shipping mode.
+  - **Target Gap Analysis:** Highlights shortfalls in sales performance based on 2024 targets.
+  - **Data-Driven Decision Support:** Enables continuous monitoring and strategic adjustments.
 
-**Tools Used:**  
-- **Python:** pandas, scikit-learn, XGBoost, matplotlib, seaborn, pgeocode  
-- **Databases:** MySQL, SQLite  
-- **Visualization:** Power BI  
+**Tools Used:**
+- **Python:** pandas, scikit-learn, XGBoost, matplotlib, seaborn, pgeocode
+- **Databases:** MySQL, SQLite
+- **Visualization:** Power BI
 
 ---
 
